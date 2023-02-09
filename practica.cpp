@@ -16,8 +16,8 @@ int main()
     int num = 12;
 
     person a;
-    a.age = 12;
-    a.weigth = 112;
+    a.age = 16;
+    a.weigth = 133;
 
     cout<<endl<<a.age<<endl<<a.weigth;
     
